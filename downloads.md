@@ -1,1 +1,0 @@
-[Gra](https://strona-kotela.github.io/downloads/gra)
