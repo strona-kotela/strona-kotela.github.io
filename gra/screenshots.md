@@ -1,1 +1,1 @@
-[screenshot1](https://strona-maksia.github.io/gra/screenshots/screenshot1.png)
+[Screenshot 1](https://strona-kotela.github.io/gra/screenshots/screenshot1.png)
