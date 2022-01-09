@@ -1,1 +1,1 @@
-[Gra](https://strona-kotela.github.io/downloads/gra)
+[Gra](https://strona-kotela.github.io/downloads/game)
